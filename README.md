@@ -9,7 +9,7 @@ You will pair program with a partner to complete this assignemnt. One partner, t
 
 1. Generate two random numbers, ask the user to calculate the sum of the numbers, and display if they got it right or not.
 2. Ask the user for a radius and calulate and display the area of a circle with that radius. If the user enters a negative number, provide them with a warning message and do not calculate the answer.
-3. Ask the user for their weight and height and calculate their BMI. Display both the number value and the range they fall in. Example: BMI: 22.5 Healthy
+3. Ask the user for their weight and height and calculate their BMI. Display both the number value and the range they fall in. Example: BMI:  Healthy
 
 
 Happy Hacking!
